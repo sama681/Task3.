@@ -1,0 +1,39 @@
+﻿Data Integrity Report
+
+
+* Dataset:
+Library_Combined_Dataset.csv
+
+
+
+
+* 1. Missing Values:
+The dataset was checked for missing values.
+Missing values were identified and handled.
+Numerical columns were filled using the median value.
+Text columns were filled using the mode value.
+
+
+
+
+* 2. Duplicate Records:
+Duplicate rows were checked and removed to make sure every record appears only once.
+
+
+
+
+* 3. Inconsistent Values:
+Text columns were standardized by removing extra spaces and making the format consistent.
+
+
+
+
+* 4. Invalid Member IDs:
+Member IDs were checked to make sure that every checkout record belongs to an existing library member.
+Invalid records were removed.
+
+
+
+
+* Conclusion:
+The dataset was cleaned and verified to improve data quality and reliability before further analysis.

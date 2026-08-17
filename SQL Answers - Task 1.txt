@@ -1,0 +1,36 @@
+﻿SQL Answers - Task 1
+
+
+1) How much is each member borrowing?
+
+
+2) Which books match a chosen author pattern?
+I chose the pattern of authors whose names start with the letter A.
+3) What are the most popular books?
+The most popular books are  1- the silver kite
+                                                  2- fossils and fireflies 
+                                                  3- circuits for beginners
+                                                  4- kites over cairo
+                                                  5- storms and sailboats 
+
+
+
+
+  
+
+
+
+4) Who are the most active readers?
+The most active readers are 1-Aya Wahba 
+                                                2-Sherif Saleh
+                                                3-Ziad Saleh
+                                                4-Nour Nabil
+                                                5-Mostafa Fouad
+                                                6-Youssef Hegazy
+                                                7-Ahmed Shafik
+                                                8-Adam Fahmy
+                                                9-Sara Rashad
+                                                10-Reem Osama
+  
+
+5) What does a neighborhood's activity look like further back in time?
